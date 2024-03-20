@@ -42,7 +42,7 @@ Resposta:
 
 """
 
-# Exemplo prático, porém personalidado do programa em questão:
+# Exemplo prático, porém personalizado do programa em questão:
 
 print(50*'-')
 print('ESTE PROGRAMA CALCULA A SOMA DE NÚMEROS NATURAIS!')
