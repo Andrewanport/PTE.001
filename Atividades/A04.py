@@ -20,5 +20,7 @@ Agora eu precisaria apenas ir em uma sala aleatória, pois:
 - Se tiver uma lâmpada apagada, porém morna, foi a do interruptor que escolhi primeiro.
 - Se estiver apagada e fria, foi do interruptor que não escolhi.
 
+Depois disso, basta ir para outra sala aleatória, assim eu saberia de dois interruptores
+e o último saberia por eliminação.
 """
 
